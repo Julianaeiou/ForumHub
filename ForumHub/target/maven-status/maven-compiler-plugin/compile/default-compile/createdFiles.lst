@@ -1,0 +1,6 @@
+org\example\ForumHub\dto\TopicoResponse.class
+org\example\ForumHub\controller\TopicoController.class
+org\example\ForumHub\dto\TopicoRequest.class
+org\example\ForumHub\repository\TopicoRepository.class
+org\example\ForumHub\model\Topico.class
+org\example\ForumHub\model\StatusTopico.class
